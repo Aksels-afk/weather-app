@@ -30,7 +30,7 @@ A modern, responsive weather application built with React, TypeScript, and the O
 ### Installation
 
 1. **Clone the repository**
-   git clone https://github.com/YOUR_USERNAME/weather-app.git
+   git clone https://github.com/Aksels-afk/weather-app.git
 
 2. **Install dependencies**
    npm install
